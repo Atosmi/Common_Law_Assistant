@@ -4,6 +4,8 @@
 
 **Common_Law_Assistant** is a RAG (Retrieval-Augmented Generation) application that leverages **Llama3.2** to provide accurate and context-aware answers to legal questions. It helps users interpret legal texts, understand laws, and gain insights into legal principles efficiently.  
 
+The overall goal is to provide a cheap, and ready to use Legal Assistant, that can help people assess their legal positions, without the hassle of hefty legal fees.
+
 
 ## Prerequisites
 
