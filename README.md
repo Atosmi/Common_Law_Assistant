@@ -30,3 +30,8 @@ I am using Intel i7-14700H with 16GB of RAM. The model takes ~7 seconds for each
 
 I asked some questions which involved different scenarios testing the legal procedure, in increading order of text complexity and details. 
 As seen in the output snippets, the model provides a cohesive answer based on the context and prompt. But currently, it does not apply "I don't know" explicitly, and provides a mixed answer.
+
+I have provided an extended snippet of text conversation with the model in ```cl_asst.txt```
+
+## Contribution
+I am not very savvy in the legal langauge. Any help in understanding and simplifying the same is sought after and greatly appreciated.
