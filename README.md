@@ -1,4 +1,4 @@
-# Common_Law_Assistant
+# Common Law Assistant
 
 ## Introduction
 
