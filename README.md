@@ -1,6 +1,7 @@
 # Common Law Assistant
 
-((https://www.legaltechdesign.com/2023/08/ai-legal-help-crossover-event/))
+![image](Common_Law_Accident/ai-for-legal-help.png)
+
 
 ## Introduction
 
