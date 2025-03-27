@@ -1,6 +1,6 @@
 # Common Law Assistant
 
-![image](Common_Law_Accident/ai-for-legal-help.png)
+![image](ai-for-legal-help.png)
 
 
 ## Introduction
